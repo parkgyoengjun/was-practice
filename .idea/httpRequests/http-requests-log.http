@@ -1,0 +1,18 @@
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=55
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-20T141116.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=55
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-13T180959.200.json
+
+###
+
